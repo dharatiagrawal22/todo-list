@@ -1,0 +1,22 @@
+[
+  {
+    "name": "dharati",
+    "age": 22,
+    "completed": true
+  },
+  {
+    "name": "aditi",
+    "age": 24,
+    "completed": false
+  },
+  {
+    "name": "paridhi",
+    "age": 25,
+    "completed": false
+  },
+  {
+    "name": "suhuna",
+    "age": 28,
+    "completed": true
+  }
+]
